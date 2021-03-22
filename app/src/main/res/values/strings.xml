@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProjetoAula2</string>
+    <string name="title_login">Login</string>
+    <string name="text_button_login">LOG IN</string>
+    <string name="title_button_sigin">SIG IN</string>
+    <string name="hint_field_name">Name</string>
+    <string name="hint_field_password">Password</string>
+    <string name="title_activity_title">Title</string>
+    <string name="message_login_incorreto">"Usuário ou senha inválidos"</string>
+    <string name="principal_image">Principal image</string>
+    <string name="title_image">Jhon Snow</string>
+    <string name="arrow_right"><![CDATA[>]]></string>
+    <string name="arrow_left"><![CDATA[<]]></string>
+    <string name="count_position">1/6</string>
+</resources>
